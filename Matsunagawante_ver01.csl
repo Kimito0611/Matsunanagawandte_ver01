@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Angewandte Chemie International Edition - Kimito Matsunaga</title>
+    <title>Matsunagawandte Chemie International Edition</title>
     <id>http://csl.mendeley.com/styles/785159051/angewandte-chemie</id>
     <link href="http://www.zotero.org/styles/angewandte-chemie" rel="self"/>
     <link href="https://onlinelibrary.wiley.com/page/journal/15213773/homepage/notice-to-authors" rel="documentation"/>
@@ -193,3 +193,4 @@ This style has many limits due to csl constraints, most notably the inability to
     </layout>
   </bibliography>
 </style>
+
